@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to sm_fakhari Pages
 
 You can use the [editor on GitHub](https://github.com/smafakhari2001/sm_webpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
