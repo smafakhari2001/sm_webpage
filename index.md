@@ -1,35 +1,168 @@
-## Welcome to sm_fakhari Pages
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+	<title>webpage for workshop</title>
+	<link rel="stylesheet"href="style.css">
+</head>
+<body>
+<h1 style="direction:rtl;text-align:right;">
+<i>تکنو کامپیوتر</i> 
+</h1>
+<div class="navbar">
+  <ul class="menu">
+    <li>
+      <a href="#link1">about</a>
+    </li>
+    <li>
+      <a href="#link2">NEWS</a>
+    </li>
+    <li>
+      <a href="#link3">programming sites</a>
+    </li>
+  </ul> 
+</div>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<hr>
+<p style="direction:rtl;text-align:right;">
+<b>در این وب سایت تلاش میکنیم تا چند سایت در زمینه برنامه نویسی و نیز اخباری درمورد تکنولوژی روز دنیا معرفی کنیم<b><br></br><br></br>
+</p>
+<h2 style="direction:rtl;text-align:right;">
+<b>**معرفی سایت های یادگیری برنامه نویسی</b>
+</h2>
+<ul>
+	<li style="direction:rtl;text-align:right;">
+	item 1:<p>
+	   یکی از سایت های یاد گیری به زبان فارسی <a rel="https://hive.ir/"href="https://hive.ir/">hive</a>میباشد.
+	</p>
+	<img src="https://anzalweb.ir/wp-content/uploads/2018/12/3-Learning-Programing.jpg"></img>
+	<hr>
+	</li>
+	<li style="direction:rtl;text-align:right;">
+	item 2 :<p>
+	آموزش برنامه نویسی از مبتدی تا پیشرفته در <a rel="https://www.w3schools.com/"href="https://www.w3schools.com/">W3schools</a>
+	</p>
+	<img src="https://anzalweb.ir/wp-content/uploads/2018/12/6-Learning-Programing.jpg"></img>
+	<hr>
+	</li>
+	<li style="direction:rtl;text-align:right;">
+	item 3 :<p>
+	  .این سایت نیز یکی از بهترین سایت های یادگیری برنامه نویسی به زبان انگلیسی است<a rel="https://www.codecademy.com/"href="https://www.codecademy.com/">CodeAcademy</a>یادگیری برنامه نویسی در سایت 
+	</p>
+	<img src="https://anzalweb.ir/wp-content/uploads/2018/12/7-Learning-Programing.jpg"></img>
+	<hr>
+	</li>
+	<li style="direction:rtl;text-align:right;">
+	item 4 :<p>
+	 <a rel="https:https://github.com/"href="https://github.com/">github</a>.یکی دیگر از بزرگترین مرجع ها برای یادگیری زبان های مختلف برنامه نویسی گیت هاب می باشد
+	</p>
+	<img src="https://anzalweb.ir/wp-content/uploads/2018/12/8-Learning-Programing.jpg"></img>
+	<hr>
+	</li>
+	<li style="direction:rtl;text-align:right;">
+	item 5 :<p>
+	برای یادگیری آنلاین برنامه نویسی هم میتوانید از <a rel="https://www.khanacademy.org/"href="https://www.khanacademy.org/">Khan Academy</a> استفاده کنید.
+	</p>
+	<img src="https://anzalweb.ir/wp-content/uploads/2018/12/11-Learning-Programing.jpg"></img>
+	<hr>
+	</li>
+	<li style="direction:rtl;text-align:right;">
+	item 6 :<p>
+	برای یادگیری زبان های javascript , css,... به <a rel="https://www.freecodecamp.org/"href="https://www.freecodecamp.org/">Free Food Camp</a> مراجعه کنید .
+	</p>
+	<img src="https://anzalweb.ir/wp-content/uploads/2018/12/12-Learning-Programing.jpg"></img>
+	<hr>
+	</li>
+
+</ul>
+<hr>
+<p>
+<h2 style="direction:rtl;text-align:right;">
+<b>**اخبار جدید پیرامون تکنولوژی</b>
+</h2>
+<ul>
+	<li style="direction:rtl;text-align:right;">
+	item 1:<p style="direction:rtl;text-align:right;">
+	رونمایی استرالیا از پهپاد نظامی با قابلیت هدایت خودکار توسط هوش مصنوعی
+	</p>
+	<img style="direction:rtl;text-align:right;"src="https://static.euronews.com/articles/stories/04/66/82/50/773x435_cmsv2_47ae5921-74fc-589f-9f23-ce902292d108-4668250.jpg"></img>
+	<p>
+	<a style="direction:rtl;text-align:right;"rel="https://per.euronews.com/2019/07/17/elon-musk-looks-to-wire-human-brain-to-computer"href="https://per.euronews.com/2019/07/17/elon-musk-looks-to-wire-human-brain-to-computer">کلیک کنید</a>جهت مطالعه بیشتر 
+	</p>
+	<hr>
+	</li>
+	<li style="direction:rtl;text-align:right;">
+	item 2 :<p style="direction:rtl;text-align:right;">
+	اتصال مغز انسان به کامپیوتر؛ پروژه جدید ایلان ماسک با همکاری تسلا
+	</p>
+	<img src="https://static.euronews.com/articles/stories/04/02/89/90/773x435_cmsv2_be8d0a8e-114d-5174-9c87-5b9e874e6a84-4028990.jpg"></img>
+	<p>
+	<a rel="https://per.euronews.com/2019/07/17/elon-musk-looks-to-wire-human-brain-to-computer"href="https://per.euronews.com/2019/07/17/elon-musk-looks-to-wire-human-brain-to-computer">کلیک کنید</a>جهت مطالعه بیشتر 
+	</p>
+	<hr>
+	</li>
+	<li style="direction:rtl;text-align:right;">
+	item 3 :<p style="direction:rtl;text-align:right;">
+	تحقق عدالت به کمک هوش مصنوعی؛ ربات‌های وکیل به اروپا می‌آیند 
+	</p>
+	<img src="https://static.euronews.com/articles/stories/03/63/23/06/773x435_cmsv2_8c398518-5f4e-58d2-a16c-a36d030523e9-3632306.jpg"></img>
+	<p>
+	<a rel="https://per.euronews.com/2019/01/30/ai-predictive-justice-europe"href="https://per.euronews.com/2019/01/30/ai-predictive-justice-europe">کلیک کنید</a>جهت مطالعه بیشتر 
+	</p>
+	<hr>
+	</li>
+	<li style="direction:rtl;text-align:right;">
+	item 4 :<p style="direction:rtl;text-align:right;">
+	فناوری واقعیت افزوده تحولی بزرگ در اتاق عمل جراحی ایجاد می‌کند
+	</p>
+		<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfkOYXi9Zv798f1xfnL6Dl5yg-giU7UtvaXg&usqp=CAU"></img><br></br>
+
+   <a rel="https://per.euronews.com/embed/593030" href="https://per.euronews.com/embed/593030">.برای دیدن ویدیو اینجا کلیک کنید</a>
+	<hr>
+	</li>
+	<li style="direction:rtl;text-align:right;">
+	item 5 :<p style="direction:rtl;text-align:right;">
+فناوری هوش مصنوعی؛ تشخیص سرطان از طریق بوی دهان بیمار 	</p>
+	<img src="https://static.euronews.com/articles/stories/03/43/33/36/773x435_cmsv2_bbaf0827-c98c-530c-a309-aefd403c1b7e-3433336.jpg"></img><br></br>
+		<a rel="https://per.euronews.com/2018/11/13/artificial-intelligence-in-medicine-cancer-diagnosis-with-smelling-breath"href="https://per.euronews.com/2018/11/13/artificial-intelligence-in-medicine-cancer-diagnosis-with-smelling-breath">کلیک کنید</a>جهت مطالعه بیشتر 
+
+	<hr>
+	</li>
+	<li style="direction:rtl;text-align:right;">
+	item 6 :<p style="direction:rtl;text-align:right;">
+	طراحی ربات‌هایی که زبان حیوانات را بلد هستند
+	</p>
+		<img src="data:image/jpeg;base64,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"></img><br></br>
+   <a rel="https://per.euronews.com/embed/531872" href="https://per.euronews.com/embed/531872">.برای دیدن ویدیو اینجا کلیک کنید</a>
+
+	<hr>
+	</li>
+
+</ul>
+</p>
+<footer>
+<p style="direction:rtl;text-align:right;"><b>درباره ما</b></p>
+<p style="direction:rtl;text-align:right;"> 
+ من سید محمد علی فخاری دانشجوی رشته مهندسی کامپیوتر دانشگاه علم و صنعت(IUST)
+
+</p>
+<p style="direction:rtl;text-align:right;">
+علاقه مند به یادگیری کامپیوتر و تکنولوژی روز دنیا
+</p>
+<p style="direction:rtl;text-align:right;">
+تماس با من:
+<p>email:</p>
+<a rel="alifakhary622@gmail.com"href="alifakhary622@gmail.com">
+alifakhary622@gmail.com
+</a>
+<p >telegram:</p>
+<a href="tlgrm.me/ُSM_a80">
+tlgrm.me/ُSM_a80
+</a>
+</p>
 
 
+</footer>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/smafakhari2001/sm_webpage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Ways of communication
-You can connect me **with telegram : @SM_a80**  to Familiar each other.
-also you can connect me **with email adderess :sm_fakhari@comp.iust.ac.ir"
+</body>
+</html>
